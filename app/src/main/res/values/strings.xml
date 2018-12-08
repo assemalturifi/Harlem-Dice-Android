@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Harlem Dice Gambling</string>
+    <string name="roll_btn_text">Roll</string>
+</resources>
